@@ -1,5 +1,3 @@
-# -The-Chosen-One-
-
 # StickBuddy_Paint.ps1 - a harmless desktop "virus" prank for Windows
 # "The Chosen One" (Alan Becker style) draws himself on your screen, waves, then just wanders around the bottom
 # of your screen doing his own thing. Leave him alone and he leaves you alone.
